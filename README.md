@@ -7,7 +7,7 @@
 - Spanish moderator of the Official Evertale Discord (global).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-- ![Discord]("https://discordapp.com/users/D3TR4KT1K#0983/")
+- [Discord](https://discordapp.com/users/D3TR4KT1K#0983/)
 
 <!---
 D3TR4KT1K/D3TR4KT1K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

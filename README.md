@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @D3TR4KT1K
 - 👀 I’m interested in reverse-engineering games and modding.
-- Modding 1997-PS1 Metal Gear Solid demo - Traslating cinematic subtitles to Spanish
+- 🌱 Degree in Videogame Programming on Unity.
+- Modding 1997-PS1 Metal Gear Solid demo - Traslating cinematic subtitles to Spanish (on it).
 - Modding Unity videogame "Evertale" - Textures, sprites, ingame values* (test purposes, persistent data not compromised) and text in chat sequences (for fun).
-- Modding Need For Speed Carbon - Improve textures quality with the original resolution (manually) for cars.
-- 🌱 I’m currently learning Unity Game Development and VR (CICE)
+- Modding Need For Speed Carbon - Improve textures quality with the original resolution (manually) for cars using Photoshop.
 - Spanish moderator of the Official Evertale Discord (global).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
